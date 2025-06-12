@@ -31,7 +31,8 @@ Este proyecto es parte del Challenge de Alura Latam para la formación en Cienci
 1. **Clonar el repositorio**:
 
 ```bash
-
+https://github.com/Martingasga/AluraChallenge1.git
+cd alura-challenge-1
 ```
 
 2. Instalar dependencias (opcional):
