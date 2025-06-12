@@ -14,9 +14,8 @@ Este proyecto es parte del Challenge de Alura Latam para la formación en Cienci
 
 ## 🗂️ Estructura del Proyecto
 
-- `analisis_ventas.ipynb` – Notebook principal con el análisis completo.
+- `AluraStoreLatam.ipynb` – Notebook principal con el análisis completo.
 - `README.md` – Este archivo con la descripción del proyecto.
-- `requirements.txt` – (Opcional) Dependencias del entorno si usas un entorno virtual.
 
 ## 🛠️ Tecnologías y Bibliotecas Utilizadas
 
@@ -25,6 +24,17 @@ Este proyecto es parte del Challenge de Alura Latam para la formación en Cienci
 - Matplotlib
 - Seaborn
 - (Opcional) Folium – Para mapas geográficos
+
+## 📈 Ejemplos de Gráficos e Insights
+
+Algunos gráficos generados durante el análisis:
+
+- 📊 **Gráfico de pastel**: Ingresos totales por tienda.
+- 📉 **Gráfico de líneas**: Valoración promedio por tienda.
+- 📍 **Gráfico de dispersión**: Ubicación geográfica de ventas.
+- 📦 **Gráfico de barras horizontales**: Ventas por categoría.
+
+---
 
 ## 🔧 Instalación y Uso
 
@@ -41,7 +51,7 @@ cd alura-challenge-1
 
 3. Ejecutar el notebook
 
-Abre analisis_ventas.ipynb en Google Colab o Jupyter Notebook y ejecuta las celdas paso a paso.
+Abre AluraStoreLatam.ipynb en Google Colab o Jupyter Notebook y ejecuta las celdas paso a paso.
 
 📈 Resultados Destacados
 
